@@ -37,3 +37,11 @@ This project automates the testing of an e-commerce website using **Selenium Web
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShrutiMishra-2002/EcommerceWebsiteAutomation.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd EcommerceWebsiteAutomation
+3.Run the test cases using a test runner like JUnit or TestNG:
+   ```bash
+   mvn test
+
