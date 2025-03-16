@@ -41,7 +41,7 @@ This project automates the testing of an e-commerce website using **Selenium Web
 2. Navigate to the project directory:
    ```bash
    cd EcommerceWebsiteAutomation
-3.Run the test cases using a test runner like JUnit or TestNG:
+3. Run the test cases using a test runner like JUnit or TestNG:
    ```bash
    mvn test
 
